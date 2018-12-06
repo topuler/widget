@@ -1,1 +1,1 @@
-https://cdn.rawgit.com/bungfrangki/efeksalju/2a7805c7/daun-berguguran.js
+https://cdn.jsdelivr.net/gh/bungfrangki/efeksalju@2a7805c7/daun-berguguran.js
